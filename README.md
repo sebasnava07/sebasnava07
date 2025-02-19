@@ -16,9 +16,9 @@
 - Business and tech innovation  
 
 ### 📫 How to Reach Me  
-- 📧 Email: [your-email@example.com]  
+- 📧 Email: [juan.nava@est.uexternado.edu.co]  
 - 💼 LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/juansebastiannava/)  
-- 🏋️‍♂️ Instagram: [your-instagram-profile](https://www.instagram.com/sebasnava__/)] 
+- 🏋️‍♂️ Instagram: [your-instagram-profile](https://www.instagram.com/sebasnava__/)
   
 
 ---
