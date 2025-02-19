@@ -17,11 +17,9 @@
 
 ### 📫 How to Reach Me  
 - 📧 Email: [your-email@example.com]  
-- 💼 LinkedIn: [your-linkedin-profile]  
-- 🏋️‍♂️ Instagram (Fitness): [your-instagram-profile]  
-
-### ⚡ Fun Fact  
-I never know what to say when asked for a fun fact! 😆 But here’s one: I originally wanted to be a football player, and I have no idea how I ended up in Business Administration—but here I am, and I’m really enjoying it!  
+- 💼 LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/juansebastiannava/)  
+- 🏋️‍♂️ Instagram: [your-instagram-profile](https://www.instagram.com/sebasnava__/)] 
+  
 
 ---
 
