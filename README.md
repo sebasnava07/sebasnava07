@@ -17,8 +17,8 @@
 
 ### 📫 How to Reach Me  
 - 📧 Email: [juan.nava@est.uexternado.edu.co]  
-- 💼 LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/juansebastiannava/)  
-- 🏋️‍♂️ Instagram: [your-instagram-profile](https://www.instagram.com/sebasnava__/)
+- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/juansebastiannava/)  
+- 🏋️‍♂️ Instagram: [Instagram](https://www.instagram.com/sebasnava__/)
   
 
 ---
