@@ -40,19 +40,12 @@ I'm also an **entrepreneur** in the **fitness industry**, providing **personaliz
 ✔ **Student Representative** at the **Board of Directors** of the **Faculty of Business Administration** and the **General Board of Directors** of Universidad Externado de Colombia.  
 ✔ **Sports & Fitness:** Training for marathons and triathlons, focusing on endurance, strength, and injury prevention.  
 ✔ **Academic Projects:** Exploring AI applications in business analytics.  
-✔ **Collaboration:** Interested in working on **sports analytics, AI, and business intelligence projects**.  
-
----
-
-## 📚 Personal Projects & Interests  
-✅ **AI for Business & Sports Analytics** – Predicting performance using ML models.  
-✅ **Real Estate Data Science** – Market analysis & pricing optimization.  
-✅ **Marathon & Triathlon Training** – Applying data science to endurance sports.  
+✔ **Collaboration:** Interested in working on **sports analytics, AI, and business intelligence projects**.   
 
 ---
 
 ## 💡 Looking to Collaborate On  
-🚀 AI & Machine Learning in Business & Sports  
+🚀 AI & Machine Learning  
 📊 Data-Driven Decision-Making  
 🏃‍♂️ Performance & Recovery Optimization  
 
@@ -64,8 +57,6 @@ I'm also an **entrepreneur** in the **fitness industry**, providing **personaliz
 🏋️‍♂️ **Instagram:** [@sebasnava__](https://www.instagram.com/sebasnava__/)
 
 ---
-
-⚡ **Fun Fact:** I'm training to become a **marathoner & triathlete**, combining data science and sports to optimize performance! 🚴‍♂️🏊‍♂️🏃‍♂️  
 
 Let’s connect and build something amazing together! 🚀
   
